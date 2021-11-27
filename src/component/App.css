@@ -1,0 +1,17 @@
+.hide {
+  display: none;
+}
+
+#header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+#app {
+  outline: none;
+}
+
+#board {
+  background-color: lightyellow;
+}

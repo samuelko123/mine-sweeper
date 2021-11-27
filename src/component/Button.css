@@ -1,0 +1,11 @@
+.comp-button {
+  height: 24px;
+  width: 24px;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  background-image: url("../sprite.png");
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
