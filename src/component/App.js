@@ -257,7 +257,7 @@ export default class App extends React.Component {
               </div>
               <span> | </span>
               <div className="tooltip">
-                <a target="_blank" rel="noopener noreferrer" href="https://github.com/koshunyin/minesweeper">
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/samuelko/https://github.com/samuelko123/minesweeper">
                   <i className="fa fa-github"></i>
                 </a>
                 <span className="tooltiptext">See source code</span>
