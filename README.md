@@ -4,4 +4,4 @@
 ![licence badge](https://img.shields.io/github/license/samuelko123/minesweeper)
 
 <p>Minesweeper game created with Create React App</p>
-<p>Demo: https://mine-sweeper.now.sh/</p>
+<p>Demo: https://mine-sweeper.vercel.app/</p>
